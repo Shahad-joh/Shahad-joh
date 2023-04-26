@@ -1,6 +1,6 @@
 <h1 align="center">Hey there!👋 </h1>
 
-<div> My name is Shahad, and I am a graduate of management information systems with a keen interest in data, business, and technology 🏻‍💻. Throughout my academic, I have developed a strong passion for exploring the intersection of these three fields, and I am constantly seeking new opportunities to learn and grow my skills in data analysis, business development, and technology implementation. </div> 
+<div> My name is Shahad, and I am a graduate of management information systems with a keen interest in data, business, and technology . Throughout my academic, I have developed a strong passion for exploring the intersection of these three fields, and I am constantly seeking new opportunities to learn and grow my skills in data analysis, business development, and technology implementation. </div> 
 <div>
 
 
